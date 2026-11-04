@@ -1,16 +1,16 @@
 {
-  "version": "0.8.29",
+  "version": "0.8.30",
   "description": "Velo's command-line downloader: fast, resumable, segmented downloads.",
   "homepage": "https://velo.adoxcol.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Adoxcol/velo/releases/download/v0.8.29/veloctl-0.8.29-windows-amd64.zip",
-      "hash": "e88207d844d58b857680ce9efe8d5010142876c92e17f37482b577df4dfe5b90"
+      "url": "https://github.com/Adoxcol/velo/releases/download/v0.8.30/veloctl-0.8.30-windows-amd64.zip",
+      "hash": "45a7a2e05eb829e8903c8ddf7c8245bd71179231a635d04a87b884f6e2877fb6"
     },
     "arm64": {
-      "url": "https://github.com/Adoxcol/velo/releases/download/v0.8.29/veloctl-0.8.29-windows-arm64.zip",
-      "hash": "17c949a89e713ec0482d607f20786bbac80e5c20adaac85a3ad3f527cc263f94"
+      "url": "https://github.com/Adoxcol/velo/releases/download/v0.8.30/veloctl-0.8.30-windows-arm64.zip",
+      "hash": "4a24a6a5ad19aaba1c8a3cc2d4321c47de046d6695afe29b87eaeb0c23af3469"
     }
   },
   "bin": "veloctl.exe",
